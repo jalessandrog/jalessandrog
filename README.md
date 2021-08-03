@@ -1,10 +1,10 @@
-<h2> Hi, I'm Joseph Alessandro García! <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="80"></h2>
+<h2> Hi, I'm Joseph Alessandro García! <img src="https://media.giphy.com/media/H6E7CjSrSVWhgEV7E8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
 
 [![Linkedin: jalessandrog](https://img.shields.io/badge/-jalessandrog-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jalessandrog-p-singh/)](https://www.linkedin.com/in/jalessandrog)
 ![GitHub followers](https://img.shields.io/github/followers/jalessandrog?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/KB21ni7aFuA9wB0iQD/giphy.gif" width="60"> A little more about me...
+### <img src="https://media.giphy.com/media/KB21ni7aFuA9wB0iQD/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const jalessandrog = {
